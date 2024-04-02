@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @safkotha
-- 📫 How to reach me ...
+- 📫 safkotha is a news media...
 
 <!---
 safkotha/safkotha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
